@@ -22,6 +22,7 @@ Fintech infrastructure security architecture
 Projects focused on building detection logic and operational security monitoring.
 
 Examples include:
+
 SIEM detection rules
 Threat hunting queries
 Attack detection using MITRE ATT&CK mapping
@@ -96,8 +97,10 @@ cloud security monitoring
 
 🧰 Technologies & Tools
 
-Examples of technologies used across projects:
+Some technologies used across projects:
 
+Docker
+Ubuntu
 SIEM platforms
 EDR platforms
 AWS security services
@@ -121,5 +124,4 @@ governance and compliance implementation
 
 🤝 Connect
 
-GitHub: (your profile)
-LinkedIn: (your LinkedIn)
+LinkedIn: https://www.linkedin.com/in/danndantata/
