@@ -1,67 +1,125 @@
-# Cyber-Portfolio
-A portfolio of projects.
+🛡️ Cyber Portfolio
 
-A curated portfolio of cybersecurity projects demonstrating practical security engineering, threat detection, system hardening, and security operations capabilities.
+Hands-on cybersecurity projects covering security engineering, cloud security, DevSecOps, detection engineering, and governance & compliance.
 
-This repository showcases hands-on work across multiple domains of cybersecurity including blue team operations, security architecture, incident response, cloud security, vulnerability management, and automation. Each project reflects real-world security challenges and demonstrates practical approaches to solving them.
+This repository showcases practical cybersecurity implementations across enterprise infrastructure, cloud environments, and application security pipelines. Projects demonstrate real-world approaches to threat detection, infrastructure hardening, secure architecture, and regulatory security controls, particularly in fintech environments.
 
-About This Portfolio
+📌 Core Areas
+🏗 Security Architecture
 
-Cybersecurity is best demonstrated through practical implementation, not theory. This portfolio highlights projects that focus on:
+Design and implementation of secure enterprise and cloud architectures.
 
-Security monitoring and detection engineering
+Examples include:
 
-Threat analysis and incident response workflows
+Zero Trust security models
+Secure AWS cloud architecture
+Network segmentation and firewall design
+Identity & Access Management (IAM) security
+Fintech infrastructure security architecture
 
-Endpoint and network defense strategies
+🔎 Detection Engineering & SOC Operations
 
-Security automation and scripting
+Projects focused on building detection logic and operational security monitoring.
 
-Cloud security architecture
+Examples include:
+SIEM detection rules
+Threat hunting queries
+Attack detection using MITRE ATT&CK mapping
+Security monitoring use cases
+Endpoint and network log analysis
 
-Vulnerability assessment and remediation
+🚨 Incident Response
 
-Security tooling implementation and configuration
+Operational playbooks and investigation workflows for security incidents.
 
-The goal of this repository is to provide transparent insight into my technical thinking, security methodologies, and operational capabilities.
+Examples:
 
-Technologies and Tools
+Ransomware investigation playbooks
+Credential compromise investigations
+Endpoint malware response
+Cloud security incident response
 
-This portfolio includes projects using various security platforms and technologies such as:
+⚙️ DevSecOps & Application Security
+
+Security integrated directly into software development pipelines and CI/CD workflows.
+
+Tools and techniques include:
+
+SonarQube – Static code analysis
+SAST / DAST pipelines
+Snyk vulnerability scanning
+Secure CI/CD pipeline design
+Software dependency vulnerability monitoring
+
+Focus areas include:
+
+secure coding practices
+application vulnerability detection
+automated security testing in CI/CD
+
+📋 Governance, Risk & Compliance (GRC)
+Security governance projects aligned with regulatory frameworks used in financial institutions and regulated environments.
+
+Frameworks include:
+
+ISO 27001
+PCI DSS
+HIPAA
+GDPR
+NIST Cybersecurity Framework
+Fintech regulatory security controls
+
+Tools used:
+
+Eramba
+CISO Assistant
+
+Projects include:
+
+risk assessments
+security control mapping
+compliance documentation
+third-party risk analysis
+
+🧪 Security Lab Environment
+
+Many projects are developed and tested in a dedicated security lab used to simulate enterprise attack and defense scenarios.
+
+Lab capabilities include:
+
+SIEM and centralized logging
+Endpoint detection and response (EDR)
+firewall monitoring
+pentesting
+attack simulation and adversary testing
+cloud security monitoring
+
+🧰 Technologies & Tools
+
+Examples of technologies used across projects:
 
 SIEM platforms
+EDR platforms
+AWS security services
+Firewall and network security tools
+Jenkins / SonarQube / Snyk
+Python security automation
+GRC platforms
 
-Endpoint Detection and Response (EDR) tools
+🎯 Purpose
 
-Firewall and network security platforms
+This portfolio demonstrates:
 
-Cloud security tooling (AWS security controls)
+practical security engineering capability
+Penetration Testing.
+cloud and infrastructure security design
+DevSecOps and application security practices
+security operations and detection engineering
+governance and compliance implementation
 
-Vulnerability scanning platforms
+⭐ If you find these projects useful, feel free to star the repository.
 
-GRC platforms.
+🤝 Connect
 
-Log analysis frameworks
-
-Security automation using Python or scripting
-
-Where applicable, projects also demonstrate integration between security tools and operational environments.
-
-
-Focus Areas
-
-Key areas of specialization represented in this repository:
-
-Security Operations Center (SOC) workflows
-
-Detection engineering and threat hunting
-
-Endpoint and network defense
-
-Security architecture and hardening
-
-Compliance-driven security controls
-
-Security automation and operational efficiency
-
-Governance Risk and Compliance using Eramba and CISO assistant.
+GitHub: (your profile)
+LinkedIn: (your LinkedIn)
