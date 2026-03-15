@@ -4,6 +4,10 @@ Hands-on cybersecurity projects covering security engineering, cloud security, D
 
 This repository showcases practical cybersecurity implementations across enterprise infrastructure, cloud environments, and application security pipelines. Projects demonstrate real-world approaches to threat detection, infrastructure hardening, secure architecture, and regulatory security controls, particularly in fintech environments.
 
+[![Watch the video](https://img.youtube.com/vi/dil5F1L7p0E/maxresdefault.jpg)](https://youtu.be/dil5F1L7p0E)
+
+### [Engineering Enterprise Resilience](https://youtu.be/dil5F1L7p0E)
+
 📌 Core Areas
 🏗 Security Architecture
 
